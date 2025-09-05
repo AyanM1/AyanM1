@@ -1,86 +1,87 @@
-![Ayan Mohanpuriya - Financial Analyst | Data & Automation Specialist](https://placehold.co/1200x200/0d1117/ffffff?text=Ayan+Mohanpuriya%0AFinancial+Analyst+%7C+Data+%26+Automation)
 
-### 👋 Hi there! I'm Ayan Mohanpuriya
-
-I am a dedicated Financial Analyst who drives strategic decision-making through extensive experience in budgeting, forecasting, and variance analysis[cite: 7]. My background in Computer Science and passion for automation allow me to streamline financial processes using generative AI and advanced data techniques, significantly enhancing efficiency and revenue planning[cite: 8]. I excel in collaborative environments, effectively partnering with teams to optimize performance and support sustainable growth[cite: 9].
-
----
-
-* 🔭 **I’m currently working on:** Building interactive financial dashboards and automating reporting processes with Python, Power BI, and workflow automation tools like n8n.
-* 🌱 **I’m currently learning:** Advanced machine learning techniques for quantitative finance and exploring agentic AI frameworks for process automation.
-* 👯 **I’m looking to collaborate on:** Open-source projects related to financial data analysis, algorithmic trading strategies, or building automated valuation tools.
-* 💬 **Ask me about:** Financial modeling, using Python/SQL for data analysis, building BI dashboards, and leveraging generative AI for process automation.
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I'm an Elite Certified Personal Trainer, which has honed my ability to analyze complex systems and apply structured methodologies—skills I transfer directly to financial problem-solving[cite: 40, 41].
-
----
-
-### 🛠 My Professional Toolkit
-
-#### **Financial Analysis & Modeling**
-My expertise includes constructing comprehensive financial models, variance and profitability analysis, managing budgeting cycles, developing accurate forecasts, P&L creation, investment valuation, and competitive market analysis[cite: 11].
-
-#### **Software & Data Tools**
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<h1 align="center">Hi, I'm Ayan Mohanpuriya 👋</h1>
+<p align="center">
+  <strong>Financial Analyst | Data Analytics • Financial Modeling • AI/ML | Python • SQL • Power BI • Tableau</strong><br>
+  <em>Driving Strategic Decisions with Data | New Delhi, India</em>
 </p>
 
-#### **Data Management & Automation**
-I am skilled in data interpretation, quantitative analysis, A/B testing, process automation solutions, and leveraging AI automation techniques[cite: 12].
+---
+
+## 💡 Professional Summary
+
+Results-driven Financial Analyst with an MBA in Accounting & Finance and a Computer Science background. I merge finance expertise (financial modeling, strategic forecasting, budgeting, variance analysis) with AI/ML-powered analytics to optimize financial performance. Skilled in automating reporting processes, building predictive models, and translating complex data into actionable business insights. Strong communicator, adept at cross-functional collaboration and stakeholder engagement.
 
 ---
 
-### 💼 Professional Experience
+## 🛠️ Skills & Technologies
 
-**Financial Analyst @ Silicon Route Pvt. Ltd.** (Feb 2023 - Mar 2024) [cite: 16, 17, 18]
-* Managed end-to-end budgeting and forecasting processes using robust financial models to track revenue, expenditure, and cost streams[cite: 20].
-* Conducted comprehensive financial analysis, including variance and profitability assessments, to prepare detailed reports that informed strategic decision-making[cite: 19].
+**Financial Analysis & Modeling:**  
+- Financial modeling, P&L creation, forecasting, budgeting  
+- Variance/profitability analysis, strategic planning, investment valuation  
+- Revenue and cost management, competitive analysis
 
-**Research Coordinator @ Ministry of Defense of India** (May 2020 - Feb 2021) [cite: 22, 23, 24]
-* Analyzed complex quantitative and qualitative data using statistical software to extract actionable insights for operational enhancements and policy development[cite: 25, 26].
-* Collaborated with interdisciplinary teams of scientists, engineers, and policy makers to tackle complex challenges and achieve comprehensive research outcomes[cite: 27].
+**Data & Analytics:**  
+- Python | SQL | Excel (advanced/VBA) | Tableau | Power BI  
+- Data analysis (quantitative & qualitative), A/B testing, automation (n8n)  
+- Google Analytics, Adobe Analytics, statistical analysis
 
----
+**Project & Operations:**  
+- Project leadership, KPI tracking, supply chain efficiency, cross-functional teamwork
 
-### 📊 Key Projects & Simulations
-
-A selection of my hands-on project experience from Forage:
-
-* **JPMorgan Investment Banking:** Constructed a DCF model to calculate the valuation of an M&A target and adjusted the model to account for a competitor bid and supply chain interruption[cite: 68, 69].
-* **Tata Group Data Analytics:** Designed an AI-driven collections strategy using agentic AI and conducted exploratory data analysis with GenAI tools to assess customer delinquency risk[cite: 58, 63].
-* **Goldman Sachs Risk Management:** Conducted individual credit risk analysis using quantified financial data and applied critical thinking to assess financial implications in real estate scenarios[cite: 50, 52].
-* **Deloitte Data Analytics:** Created a data dashboard using Tableau and used Excel to classify data and draw business conclusions[cite: 47, 48].
-* **JPMorgan Quant Research:** Used dynamic programming to convert FICO scores into categorical data to analyze a book of loans and estimate a customer's probability of default.
+**Languages:**  
+- English (Advanced), Hindi (Native), French (Elementary)
 
 ---
 
-### 📈 My GitHub Stats
+## 💼 Professional Experience
 
-[![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanM1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanM1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**Silicon Route Pvt. Ltd. — Financial Analyst**  
+_Feb 2023 – Mar 2024, New Delhi_  
+- Conducted comprehensive financial analysis, supporting strategic business decisions and sales/marketing teams.  
+- Developed financial models for revenue/cost/COGS forecasting and budgeting.  
+- Performed industry research and competitor benchmarking.
+
+**Ministry of Defense of India — Research Coordinator**  
+_May 2020 – Feb 2021, New Delhi_  
+- Designed research protocols and ensured data integrity.  
+- Led quantitative and qualitative analysis using statistical software.  
+- Coordinated cross-functional research projects and oversaw data collection.
 
 ---
 
-### 🤝 Let's Connect!
+## 🎓 Education
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ayanmohanpuriya29@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**MBA, Accounting and Finance**  
+Suresh Gyan Vihar University, Jaipur (2022 – 2024)
+
+**BCA, Computer and Information Sciences**  
+Jaipur National University, Jaipur (2019 – 2022)
+
+---
+
+## 📃 Certifications & Courses
+
+- **AI/Data Certifications:** AI Engineer (OneRoadmap), Data Scientist (OneRoadmap), Data Analyst (OneRoadmap), Excel Certification
+- **Job Simulations:** Deloitte Australia, Goldman Sachs (Risk), Tata Group, JPMorgan (IB & Quant), Fidelity (Investment Mgt)
+- **ISSA Elite CPT:** Complex systems analysis, nutrition, client management
+- *(Details in resume or LinkedIn)*
+
+---
+
+## 🌐 Links & Portfolio
+
+- [LinkedIn](https://www.linkedin.com/in/ayanmohanpuriya)
+- [GitHub](https://github.com/AyanM1)
+- [Portfolio Website](#) <!-- Add your actual portfolio link here -->
+- 📧 ayanmohanpuriya29@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanM1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanM1&layout=compact&theme=radical)
+
+---
+
+*Transforming data into decisions. Open to remote and hybrid opportunities. Let’s connect and collaborate!*
